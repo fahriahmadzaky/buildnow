@@ -43,6 +43,11 @@ body {
 	background: rgba(0, 0, 0, 0.7);
 	z-index: 1;
 }
+
+.c-img {
+	object-fit: cover;
+}
+
 .navbar .getstarted {
 	background: #106eea;
 	margin-left: 30px;
